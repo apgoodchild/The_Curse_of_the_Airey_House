@@ -1,3 +1,8 @@
 Change Log
-24/3/20187
-  -Created File with First Commit and Read me
+24/3/2018
+  -Created File with First Commit and Read me (Alex Goodchild)
+31/3/2018
+  - Created Threads to handle logo screen (Alex Goodchild)
+  - Created Logo for application using photoshop (Alex Goodchild)
+  - Changed manifest to open splash screen on load (Alex Goodchild)
+  - Created Splash Screen (Alex Goodchild
