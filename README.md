@@ -6,3 +6,8 @@ This is a first commit. Project displayed is just base template made from androi
 - Not enough commits + changelog items to pass at this frequency.
 - You're still missing a licenses.txt file.
 - You're still missing SID in this readme.txt.
+
+# Henry comments 27/April
+- Did this project stop and switch to another github address? If so, let me know here too.
+
+
