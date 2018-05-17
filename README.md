@@ -10,4 +10,6 @@ This is a first commit. Project displayed is just base template made from androi
 # Henry comments 27/April
 - Did this project stop and switch to another github address? If so, let me know here too.
 
-
+# Alex comments
+Yes it has changed, i dont know why but it seems when i pushed changes they went to this adress instead:
+https://github.com/apgoodchild/TheCurseoftheAireyHouse
